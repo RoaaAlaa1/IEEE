@@ -1,0 +1,14 @@
+W:\ieee\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.GeneratedMSBuildEditorConfig.editorconfig
+W:\ieee\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.AssemblyInfoInputs.cache
+W:\ieee\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.AssemblyInfo.cs
+W:\ieee\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.csproj.CoreCompileInputs.cache
+W:\ieee\TaskTracker\TaskTracker\bin\Debug\net8.0\TaskTracker.exe
+W:\ieee\TaskTracker\TaskTracker\bin\Debug\net8.0\TaskTracker.deps.json
+W:\ieee\TaskTracker\TaskTracker\bin\Debug\net8.0\TaskTracker.runtimeconfig.json
+W:\ieee\TaskTracker\TaskTracker\bin\Debug\net8.0\TaskTracker.dll
+W:\ieee\TaskTracker\TaskTracker\bin\Debug\net8.0\TaskTracker.pdb
+W:\ieee\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.dll
+W:\ieee\TaskTracker\TaskTracker\obj\Debug\net8.0\refint\TaskTracker.dll
+W:\ieee\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.pdb
+W:\ieee\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.genruntimeconfig.cache
+W:\ieee\TaskTracker\TaskTracker\obj\Debug\net8.0\ref\TaskTracker.dll
